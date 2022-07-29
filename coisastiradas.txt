@@ -1,0 +1,57 @@
+fotos.js
+
+{
+        titulo: 'Fotos de 2021',
+        display:'none',
+        ano: [
+            {
+                mes:'Outubro 2021',
+                fotos:[
+                    {foto:'assets/image/photos/2021/outubro/1.jpg'},
+                    {foto:'assets/image/photos/2021/outubro/2.jpg'},
+                    {foto:'assets/image/photos/2021/outubro/3.jpg'},
+                    {foto:'assets/image/photos/2021/outubro/4.jpg'},
+                    {foto:'assets/image/photos/2021/outubro/5.jpg'},
+                    {foto:'assets/image/photos/2021/outubro/6.jpg'},
+                    {foto:'assets/image/photos/2021/outubro/7.jpg'},
+                    {foto:'assets/image/photos/2021/outubro/8.jpg'},
+                    {foto:'assets/image/photos/2021/outubro/9.jpg'},
+                    {foto:'assets/image/photos/2021/outubro/10.jpg'},
+                    {foto:'assets/image/photos/2021/outubro/11.jpg'},
+                ]
+            },
+         
+            {
+             mes:'Novembro 2021',
+             fotos:[
+                 {foto:'assets/image/photos/2021/novembro/1.jpg'},
+                 {foto:'assets/image/photos/2021/novembro/2.jpg'},
+                 {foto:'assets/image/photos/2021/novembro/3.jpg'},
+                 {foto:'assets/image/photos/2021/novembro/4.jpg'},
+                 {foto:'assets/image/photos/2021/novembro/5.jpg'},
+                 {foto:'assets/image/photos/2021/novembro/6.jpg'},
+                 {foto:'assets/image/photos/2021/novembro/7.jpg'},
+                 {foto:'assets/image/photos/2021/novembro/8.jpg'},
+                 {foto:'assets/image/photos/2021/novembro/9.jpg'},
+                 {foto:'assets/image/photos/2021/novembro/10.jpg'},
+                 {foto:'assets/image/photos/2021/novembro/11.jpg'},
+                 {foto:'assets/image/photos/2021/novembro/12.jpg'},
+                 {foto:'assets/image/photos/2021/novembro/13.jpg'},
+                 {foto:'assets/image/photos/2021/novembro/14.jpg'},
+                 {foto:'assets/image/photos/2021/novembro/15.jpg'},
+                 {foto:'assets/image/photos/2021/novembro/16.jpg'},
+                 {foto:'assets/image/photos/2021/novembro/17.jpg'},
+                 ]
+             },
+         
+             {
+                 mes:'Dezembro 2021',
+                 fotos:[
+                     {foto:'assets/image/photos/2021/dezembro/1.jpg'},
+                     {foto:'assets/image/photos/2021/dezembro/2.jpg'},
+                     {foto:'assets/image/photos/2021/dezembro/3.jpg'},
+                 ]
+             },        
+        ]
+
+    },

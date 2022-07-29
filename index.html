@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Renovar Futebol</title>
+    <link rel="shortcut icon" href="assets/image/favicon.ico">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header>
+        <div class="header--box">
+            <div class="header--left">
+                <a href="">
+                    <img src="assets/image/logo.png">
+                </a>
+            </div>
+            <div class="header--right">
+                <a href="">Rank</a>
+                <a href="">Artilharia-do-mês</a>
+                <a href="">Galeria</a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div id="content4" class="main--left">
+            <img class="left--img" src="assets/image/textProjeto.png">
+            <div class="projeto--renovar">PROJETO <br> RENOVAR</div>
+            <h1 >FUTEBOL</h1>
+            <div>
+                <div class="futebol--2">FUTEBOL</div>
+            </div>
+            
+            <div class="left--options">
+                <div class="options--select">
+                    <img src="assets/image/Rank.png">
+                    <div class="select--link">
+                        <a href="#content1">ARTILHARIA </br> GERAL</a>
+                    </div>
+                </div>
+                <div class="options--select">
+                    <img src="assets/image/Medalha.png">
+                    <div class="select--link">
+                        <a href="#content2">ARTILHARIA  </br> DO MÊS</a>
+                    </div>
+                </div>
+                <div class="options--select">
+                    <img src="assets/image/Camera.png">
+                    <div class="select--link">
+                        <a href="#content3">GALERIA <br> IMAGENS</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="main--right">
+           <div></div>
+        </div>
+    </main>
+
+
+    <section class="sec--statistics">
+        <h2>ESTATÍSTICAS</h2>
+        <div class="statistics--box">
+           <div class="box--info">
+               <h3 class="info--gols">+100</h3>
+               <p>GOLS FEITOS</p>
+           </div> 
+            <div class="box--info">
+                <h3>+60</h3>
+                <p>JOGADORS ÚNICOS</p>
+            </div> 
+            <div class="box--info">
+                <h3>+30</h3>
+                <p>PARTIDAS JOGADAS</p>
+            </div>
+    </section>
+
+
+    <section class="basic--box">
+        <div class="box--container">
+            <div class="title">
+                <h2 id="content1">Artilharia Geral</h2>
+            </div>
+            <p>Obs: Essa lista somente é atualizada ao final do Mês</p>
+            <div class="closeList" onclick="closeList()">FECHAR</div>
+            <div class="openList" onclick="openList()">ABRir</div>
+            <div class="list">
+                <div class="list--infos">
+                    <div>Pos.</div>
+                    <div>Nome</div>
+                    <div>Gols</div>
+                </div>
+                <div class="list--players">
+                   <div class="addPlayer">
+                        <div class="playerId"></div>
+                        <div class="playerName"></div>
+                        <div class="playerGols"></div>
+                   </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Parabéns ao artilheiro-->
+
+    <div class="scorer--container">
+        <div class="scorer--player">
+            PARABÉNS <span>RICARDO SOUZA</span>, ARTILHEIRO DO MÊS DE <span>JUNHO</span>
+        </div>
+    </div>
+
+    <!-- Artilhari do mês -->
+
+    <section  id="content2" class="sec--artilharia">
+        <h3>ARTILHARIA POR MÊS</h3>
+            <div class="artilharia--box">
+                <div class="artilharia--ano"></div>
+                <div class="artilharia--grid">
+                    <div class="artilharia--container">
+                        <div class="artilharia--title"></div>
+                        <div class="artilharia--tabelas">
+                            <div class="nome"></div>
+                            <div class="gols"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </section>
+
+    <section id="content3" class="sec--photos">
+        <h3>Fotos dos TIMES</h3>
+        <div class="photos--box">
+            <div class="photos--year"></div>
+                <div class="photos--counter">
+                    <div class="photos--container">
+                        <div class="photos--title"></div>
+                        <div class="photos--grid"></div>
+                    </div>
+                </div>
+        </div>
+    </section>
+
+    <div class="btn">
+        <a href="#content4"> <img src="assets/image/setapracima.png"> </a>
+    </div>
+
+   <div class="janela--modal">
+       <span class="btn--fechar">FECHAR</span>
+       <img src="" class="img--modal">
+   </div>
+
+    <script src="assets/js/players.js"></script>
+    <script src="assets/js/mes.js"></script>
+    <script src="assets/js/fotos.js"></script>
+    <script src="assets/js/script.js"></script>
+</body>
+</html>
