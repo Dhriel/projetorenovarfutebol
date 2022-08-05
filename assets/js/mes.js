@@ -476,7 +476,7 @@ let artilhariaMes = [
                     {nome:'Douglas costa', gols: 01},
                     {nome:'Curi', gols: 03},
                     {nome:'Guilherme Ribeiro', gols: 07},
-                    {nome:'Maurimessi', gols: 01},
+                    {nome:'Maurimessi', gols: 05},
                     {nome:'Brandão', gols: 01},
                     {nome:'Nathan', gols: 01},
                     {nome:'Pr. Wellington', gols: 05},
