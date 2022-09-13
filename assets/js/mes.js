@@ -514,9 +514,9 @@ let artilhariaMes = [
              {
                 mes:'Setembro',
                 artilharia:[
-                    {nome:'Gabriel D.', gols: 03},
+                    {nome:'Gabriel Dourado', gols: 03},
                     {nome:'Thiago Dias', gols: 07},
-                    {nome:'Mauricio', gols: 5},
+                    {nome:'Maurimessi', gols: 5},
                     {nome:'Nathan', gols: 05},
                     {nome:'Guilherme', gols: 02},
                     {nome:'Mateus Rodrigues', gols: 01},
@@ -528,7 +528,7 @@ let artilhariaMes = [
                     {nome:'David', gols:01},
                     {nome:'Charles', gols: 01},
                     {nome:'Carlinhos', gols: 01},
-                    {nome:'Adriel', gols: 01},
+                    {nome:'Adriel', gols: 02},
                     
                     
                 ]
