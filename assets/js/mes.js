@@ -511,6 +511,28 @@ let artilhariaMes = [
                     
                 ]
             },
+             {
+                mes:'Setembro',
+                artilharia:[
+                    {nome:'Gabriel D.', gols: 03},
+                    {nome:'Thiago Dias', gols: 07},
+                    {nome:'Mauricio', gols: 5},
+                    {nome:'Nathan', gols: 05},
+                    {nome:'Guilherme', gols: 02},
+                    {nome:'Mateus Rodrigues', gols: 01},
+                    {nome:'Pedro', gols: 01},
+                    {nome:'Matheus Paz', gols: 01},
+                    {nome:'Lucas dias', gols: 01},
+                    {nome:'Lucas Felipe', gols: 01},
+                    {nome:'Anderson(Haaland)', gols: 01},
+                    {nome:'David', gols:01},
+                    {nome:'Charles', gols: 01},
+                    {nome:'Carlinhos', gols: 01},
+                    {nome:'Adriel', gols: 01},
+                    
+                    
+                ]
+            },
         ]
     }
 ];
