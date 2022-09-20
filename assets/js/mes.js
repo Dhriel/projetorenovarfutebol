@@ -516,19 +516,38 @@ let artilhariaMes = [
                 artilharia:[
                     {nome:'Gabriel Dourado', gols: 03},
                     {nome:'Thiago Dias', gols: 07},
-                    {nome:'Maurimessi', gols: 5},
-                    {nome:'Nathan', gols: 05},
-                    {nome:'Guilherme', gols: 02},
+                    {nome:'Maurimessi', gols: 07},
+                    {nome:'Nathan', gols: 10},
+                    {nome:'Guilherme', gols: 03},
                     {nome:'Mateus Rodrigues', gols: 01},
                     {nome:'Pedro', gols: 01},
                     {nome:'Matheus Paz', gols: 01},
                     {nome:'Lucas dias', gols: 01},
                     {nome:'Lucas Felipe', gols: 01},
                     {nome:'Anderson(Haaland)', gols: 01},
-                    {nome:'David', gols:01},
+                    {nome:'David', gols:02},
                     {nome:'Charles', gols: 01},
                     {nome:'Carlinhos', gols: 01},
-                    {nome:'Adriel', gols: 02},
+                    {nome:'Adriel', gols: 04},
+                    {nome:'Bazaga', gols: 01},
+                    {nome:'Diego Branco', gols: 04},
+                    {nome:'Lohan', gols: 03},
+                    {nome:'Orles', gols: 01},
+                    {nome:'Jean', gols: 04},
+                    {nome:'Isaque', gols: 01},
+                    {nome:'Wellerson', gols: 02},
+                    {nome:'Saro', gols: 01},
+                    {nome:'T. Moraes', gols: 01},
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
                     
                     
                 ]
