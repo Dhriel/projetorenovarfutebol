@@ -514,42 +514,40 @@ let artilhariaMes = [
              {
                 mes:'Setembro',
                 artilharia:[
-                    {nome:'Gabriel Dourado', gols: 03},
-                    {nome:'Thiago Dias', gols: 07},
-                    {nome:'Maurimessi', gols: 07},
-                    {nome:'Nathan', gols: 10},
-                    {nome:'Guilherme', gols: 03},
+                    {nome:'Gabriel Dourado', gols: 04},
+                    {nome:'Thiago Dias', gols: 09},
+                    {nome:'Maurimessi', gols: 11},
+                    {nome:'Nathan', gols: 15},
+                    {nome:'Guilherme', gols: 05},
                     {nome:'Mateus Rodrigues', gols: 01},
                     {nome:'Pedro', gols: 01},
-                    {nome:'Matheus Paz', gols: 01},
+                    {nome:'Matheus Paz', gols: 03},
                     {nome:'Lucas dias', gols: 01},
-                    {nome:'Lucas Felipe', gols: 01},
-                    {nome:'Anderson(Haaland)', gols: 01},
-                    {nome:'David', gols:02},
+                    {nome:'Lucas Felipe', gols: 02},
+                    {nome:'Anderson(Haaland)', gols: 02},
+                    {nome:'David', gols:04},
                     {nome:'Charles', gols: 01},
-                    {nome:'Carlinhos', gols: 01},
-                    {nome:'Adriel', gols: 04},
-                    {nome:'Bazaga', gols: 01},
-                    {nome:'Diego Branco', gols: 04},
-                    {nome:'Lohan', gols: 03},
+                    {nome:'Carlinhos', gols: 03},
+                    {nome:'Adriel', gols: 05},
+                    {nome:'Bazaga', gols: 07},
+                    {nome:'Diego Branco', gols: 02},
+                    {nome:'Lohan', gols: 04},
                     {nome:'Orles', gols: 01},
-                    {nome:'Jean', gols: 04},
-                    {nome:'Isaque', gols: 01},
-                    {nome:'Wellerson', gols: 02},
+                    {nome:'Jean', gols: 05},
+                    {nome:'Isaque Lopes', gols: 08},
+                    {nome:'Wellerson', gols: 05},
                     {nome:'Saro', gols: 01},
                     {nome:'T. Moraes', gols: 01},
+                    {nome:'Pr. Wellington', gols: 03},
+                    {nome:'Luiz', gols: 08},
+                    {nome:'Pr. Fábio', gols: 01},
+                    {nome:'Guilherme Mateus', gols: 02},
+                    {nome:'Jeferson ', gols: 01},
+                    {nome:'Cleysson ', gols: 01},
                     
                     
                     
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
+          
                 ]
             },
         ]
