@@ -550,9 +550,9 @@ let artilhariaMes = [
              {
                 mes:'Outubro',
                 artilharia:[
-                    {nome:'Guilherme', gols: 01},
-                    {nome:' Wellerson', gols: 01 },
-                    {nome:'Luiz', gols: 05},
+                    {nome:'Guilherme', gols: 04},
+                    {nome:' Wellerson', gols: 02 },
+                    {nome:'Luiz', gols: 10},
                     {nome:'Mateus', gols: 01},
                     {nome:'Pr. Wellington', gols: 05},
                     {nome:'Thiago Moraes', gols: 03},
@@ -560,20 +560,17 @@ let artilhariaMes = [
                     {nome:'Carlinhos', gols: 03},
                     {nome:'Mateus Santos', gols: 02},
                     {nome:'Felipe', gols: 02},
-                    {nome:'Nathan Rocha', gols: 06},
-                    {nome:'Adriel', gols: 02},
+                    {nome:'Nathan Rocha', gols: 08},
+                    {nome:'Adriel', gols: 05},
                     {nome:'Pr Fábio', gols: 01},
-                    {nome:'Lohan', gols: 01},
-                    {nome:'Thiago Dias', gols: 02},
-                    {nome:'Anderson (Haaland)', gols: 02},
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
+                    {nome:'Lohan', gols: 04},
+                    {nome:'Thiago Dias', gols: 04},
+                    {nome:'Anderson (Haaland)', gols: 04},
+                    {nome:'Dourado', gols: 02},
+                    {nome:'Guilherme Mateus', gols: 03},
+                    {nome:'Carlos Henrique', gols: 01},
+                    {nome:'Ricardo Moura', gols: 02},
+                    {nome:'Ramos', gols: 01},
                 ]
             },
         ]
