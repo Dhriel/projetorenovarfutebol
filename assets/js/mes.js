@@ -577,6 +577,99 @@ let artilhariaMes = [
                     {nome:'Cleysson', gols: 01},
                 ]
             },
+            {
+                mes:'Novembro',
+                artilharia:[
+                    {nome:'Lucas dias', gols: 12},
+                    {nome:'Guilherme', gols: 07},
+                    {nome:'Luiz', gols: 12},
+                    {nome:'Diego Branco', gols: 01},
+                    {nome:'Nathan', gols: 12},
+                    {nome:'Anderson(Haaland)', gols: 04},
+                    {nome:'Thiago Moraes', gols: 02},
+                    {nome:'Mateus Paz', gols: 06},
+                    {nome:'Thiago Dias', gols: 11},
+                    {nome:'Guilherme Moura', gols: 03},
+                    {nome:'Isaac', gols: 03},
+                    {nome:'Ricardo Moura', gols: 04},
+                    {nome:'Adriel', gols: 07},
+                    {nome:'Willian', gols: 04},
+                    {nome:'Wellerson', gols: 03},
+                    {nome:'Pr. Fábio', gols: 02},
+                    {nome:'Rodrigo', gols: 03},
+                    {nome:'Maurimessi', gols: 02},
+                    {nome:'Gabriel Dourado', gols: 01},
+                    {nome:'David', gols: 02},
+                    {nome:'Pr. Jhonathan', gols: 01},
+                    {nome:'Cleysson', gols: 01},
+                    {nome:'Pr. Marcelo', gols: 03},
+                    {nome:'Carlinhos', gols: 02},
+                    {nome:'Stanley', gols: 01},
+                ]
+            },
+            {
+                mes:'Dezembro',
+                artilharia:[
+                    {nome:'Pr. Wellington', gols: 04},
+                    {nome:'Luiz', gols: 05},
+                    {nome:'Nathan', gols: 03},
+                    {nome:'Thiago Dias', gols: 05},
+                    {nome:'Isaac', gols: 08},
+                    {nome:'Jean', gols: 10},
+                    {nome:'Carlinhos', gols: 02},
+                    {nome:'Ricardo Moura', gols: 01},
+                    {nome:'Lucas Dias', gols: 02},
+                    {nome:'Maurimessi', gols: 02},
+                    {nome:'Adriel', gols: 03},
+                    {nome:'Anderson (Haaland)', gols: 05},
+                    {nome:'Guilherme Mateus', gols: 06},
+                    {nome:'David', gols: 01},
+                    {nome:'Pr. Fábio', gols: 01},
+                    {nome:'Lucas Freitas', gols: 03},
+                    {nome:'Alexsander', gols: 01},
+                    {nome:'Vinicius', gols: 13},
+                    {nome:'Wellerson', gols: 01},
+                    {nome:'Wallace', gols: 01},
+                    {nome:'Tiago Moraes', gols: 03},
+                    {nome:'Mateus Paz', gols: 03},
+                ]
+            },
+        ]
+    },
+
+    /*  2023  */
+
+    {   
+        titulo: 'Artilharia de 2023',
+        display:'grid',
+        ano:[
+            {
+                mes:'Janeiro',
+                artilharia:[
+                    {nome:'Gabriel Dourado', gols:03},
+                    {nome:'Felipe', gols:01},
+                    {nome:'Anderson (Haaland)', gols:04},
+                    {nome:'Lohan', gols:02},
+                    {nome:'Luiz', gols:02},
+                    {nome:'Pr. Wellington', gols:06},
+                    {nome:'Guilherme Mateus', gols:01},
+                    {nome:'Pr. Jonathan', gols:01},
+                    {nome:'Vinicius', gols:01},
+                    {nome:'Lucas Tricolor', gols:01},
+                    {nome:'Nathan', gols:01},
+                    {nome:'Lenon', gols:02},
+                    {nome:'Maurimessi', gols:01},
+                    {nome:'Guilherme', gols:01},
+                    {nome:'Adriel', gols:06},
+                    {nome:'Pr. Fábio', gols:01},
+                    {nome:'Guilherme Paz', gols:01},
+                    {nome:'Lucas Freitas', gols:01},
+                    {nome:'Mateus Paz', gols:03},
+                    {nome:'Carlinhos', gols:01},
+                    {nome:'Thiago Dias', gols:01},
+
+                ]
+            },
         ]
     }
 ];
