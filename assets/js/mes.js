@@ -1,7 +1,7 @@
 let artilhariaMes = [
     {   
         titulo: 'Artilharia de 2023',
-        display:'none',
+        display:'grid',
         ano: [
             {   
                 mes:'Agosto',
