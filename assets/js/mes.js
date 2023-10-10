@@ -61,6 +61,22 @@ let artilhariaMes = [
                     {nome:'Lucas Freitas', gols: 4},
                 ]
             },
+             {   
+                mes:'Outubro',
+                artilharia:[
+                    {nome:'Navega', gols:02},
+                    {nome:'Nunes', gols:02},
+                    {nome:'Viny', gols:04},
+                    {nome:'David', gols:01},
+                    {nome:'Adriel', gols:03},
+                    {nome:'Pr. Marcelo', gols:06},
+                    {nome:'Adriano', gols:03},
+                    {nome:'Ricardo', gols:01},
+                    {nome:'Lohan', gols:06},
+                    {nome:'Bruno', gols:02},
+                    {nome:'Nathan', gols:01},
+                ]
+            },
         
         
         ]
