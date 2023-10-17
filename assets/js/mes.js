@@ -64,17 +64,23 @@ let artilhariaMes = [
              {   
                 mes:'Outubro',
                 artilharia:[
-                    {nome:'Navega', gols:02},
-                    {nome:'Nunes', gols:02},
+                    {nome:'Navega', gols:03},
+                    {nome:'Nunes', gols:06},
                     {nome:'Viny', gols:04},
                     {nome:'David', gols:01},
-                    {nome:'Adriel', gols:03},
+                    {nome:'Adriel', gols:07},
                     {nome:'Pr. Marcelo', gols:06},
-                    {nome:'Adriano', gols:03},
-                    {nome:'Ricardo', gols:01},
-                    {nome:'Lohan', gols:06},
+                    {nome:'Adriano', gols:06},
+                    {nome:'Ricardo Moura', gols:01},
+                    {nome:'Lohan', gols:09},
                     {nome:'Bruno', gols:02},
-                    {nome:'Nathan', gols:01},
+                    {nome:'Nathan', gols:05},
+                    {nome:'Robson Junior', gols:01},
+                    {nome:'Tiago', gols:01},
+                    {nome:'Pr.Wellington', gols:03},
+                    {nome:'Lucas Freitas', gols:02},
+                    {nome:'Rafael Paulista', gols:02},
+                    
                 ]
             },
         
