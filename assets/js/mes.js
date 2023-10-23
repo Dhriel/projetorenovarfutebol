@@ -68,7 +68,7 @@ let artilhariaMes = [
                     {nome:'Nunes', gols:10},
                     {nome:'Viny', gols:08},
                     {nome:'David', gols:01},
-                    {nome:'Adriel', gols:100},
+                    {nome:'Adriel', gols:10},
                     {nome:'Pr. Marcelo', gols:08},
                     {nome:'Adriano', gols:10},
                     {nome:'Ricardo Moura', gols:03},
